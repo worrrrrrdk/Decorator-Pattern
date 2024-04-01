@@ -6,7 +6,7 @@ class StudyBehavior {
 
 class SimpleStudy extends StudyBehavior {
     study() {
-        return "เข้าเรียน";
+        return "าาาา";
     }
 }
 
